@@ -22,9 +22,9 @@ This backend application utilizes Object Relational Mapping by using Sequelize t
 2. Once cloned, and project folder is opened in your text editor run the following command to install all dependencies (npm install).
 
 3. Create a .env file in the main directory and include your data for the following mySQL info..
-DB_NAME=' '
-DB_USER=' '
-DB_PASSWORD=' '
+    DB_NAME=' '
+    DB_USER=' '
+    DB_PASSWORD=' '
 
 4. Once your .env file is complete be sure your schema.sql file matches and you can run the following command run MySQL ( mysql -u root -p ).
 
